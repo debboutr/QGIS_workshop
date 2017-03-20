@@ -1,5 +1,8 @@
 # QGIS_workshop
 
+Mapbox
+
+https://api.mapbox.com/styles/v1/debboiutr/ciuyi4l2r003x2ikh8dhlapyl/wmts?access_token=pk.eyJ1IjoiZGViYm9pdXRyIiwiYSI6IjhlMTk5YzlhZDBiODQ5MWE5NDEzMzE1MjI0OTU4OWJjIn0.jS8URjY-9OvjAv6aTn9I0w&
 
 AGOL
 
