@@ -26,3 +26,22 @@ Ecoregions
 
 https://catalog.data.gov/dataset/u-s-level-iii-and-iv-ecoregions-u-s-epa
 ftp://newftp.epa.gov/EPADataCommons/ORD/Ecoregions/or/
+
+
+# ACTIONS!
+* download data
+* create favorite in browser
+* Graticules -- crs
+* import WMS for ecoregions __ download __
+* set layer CRS
+* layer styling
+* editing -- copy features, node tool, move features
+* heatmap
+* georeference
+* composer
+* color map
+
+
+
+### NLCD
+https://raster.nationalmap.gov/arcgis/rest/services/LandCover/USGS_EROS_LandCover_NLCD/MapServer
