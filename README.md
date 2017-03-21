@@ -21,3 +21,6 @@ MAC USERS -- http://www.kyngchaos.com/software/qgis
 
 Dropbox
 https://www.dropbox.com/sh/xvg5rwasqgkoai3/AAB_JQWpCUH6L-wgWLyoO_bDa?dl=1
+
+Ecoregions
+https://catalog.data.gov/dataset/u-s-level-iii-and-iv-ecoregions-u-s-epa
