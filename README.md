@@ -4,13 +4,13 @@
 
 # This workshop aims to cover: 
 
-* ### Managing projections 
-* ### Georeferencing images
-* ### Using the python console
-* ### Styling layers
-* ### Creating maps with Print Composer 
-* ### Installing Plugins
-* ### Loading WMS layers
+* #### Managing projections 
+* #### Georeferencing images
+* #### Using the python console
+* #### Styling layers
+* #### Creating maps with Print Composer 
+* #### Installing Plugins
+* #### Loading WMS layers
 
 ## [Download](https://www.dropbox.com/sh/xvg5rwasqgkoai3/AAB_JQWpCUH6L-wgWLyoO_bDa?dl=1) information needed in the workshop (best to wait til the day of as I have a few things to organize yet!)
 
