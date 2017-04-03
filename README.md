@@ -2,8 +2,6 @@
 
 [Download QGIS](http://www.qgis.org/en/site/forusers/download.html)
 
-click Q ^ for download site!
-
 # This workshop aims to cover: 
 
 * ### Managing projections 
@@ -11,8 +9,8 @@ click Q ^ for download site!
 * ### Using the python console
 * ### Styling layers
 * ### Creating maps with Print Composer 
-
-
+* ### Installing Plugins
+* ### Loading WMS layers
 
 Mapbox
 
