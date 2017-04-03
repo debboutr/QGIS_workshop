@@ -4,9 +4,9 @@
 * ### Georeferencing images
 * Using the python console
 * Styling layers
-* Creating maps with Print Composer ![qgis_logo](https://cloud.githubusercontent.com/assets/7052993/24596179/2086968e-17f2-11e7-991b-981050cee967.png)
+* Creating maps with Print Composer 
 
-[here](http://www.qgis.org/en/site/forusers/download.html)
+[![qgis_logo](https://cloud.githubusercontent.com/assets/7052993/24596179/2086968e-17f2-11e7-991b-981050cee967.png)](http://www.qgis.org/en/site/forusers/download.html)
 
 
 Mapbox
